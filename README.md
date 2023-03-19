@@ -1,5 +1,5 @@
 # falling-squares
-Simple game made using graphics.h library in cpp.
+Simple 2D game made using graphics.h library in cpp.
 
 ## square falls one at time 
 ![image](https://user-images.githubusercontent.com/78578985/226204400-930a9746-2017-42ab-8cfc-c9237cc47c74.png)
